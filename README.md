@@ -34,9 +34,18 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TANUJ-BISHT&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
+#
+<p align="center">
+<a href="https://www.data-card-for-spotify.com/card?user_id=31q64lqg7qaidmlgqt5todt2hk6u">
+  <img src="https://www.data-card-for-spotify.com/api/card?user_id=31q64lqg7qaidmlgqt5todt2hk6u" alt="Data Card for Spotify">
+</a>
+</p>
+
+#
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+#
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TANUJ-BISHT&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
