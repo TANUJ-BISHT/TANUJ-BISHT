@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) <!-- ![GODOT](https://img.shields.io/badge/godot-3582bb.svg?style=plastic&logo=godot-engine&logoColor=white) -->![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TANUJ-BISHT&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TANUJ-BISHT&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TANUJ-BISHT&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TANUJ-BISHT&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
@@ -48,6 +46,8 @@ Here are some ideas to get you started:
 #
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TANUJ-BISHT&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=TANUJ-BISHT&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TANUJ-BISHT&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <!--
 ---
 [![](https://visitcount.itsvg.in/api?id=TANUJ-BISHT&icon=2&color=6)](https://visitcount.itsvg.in)
