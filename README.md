@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 #
 <p align="center">
-<a href="https://www.data-card-for-spotify.com/card?user_id=31q64lqg7qaidmlgqt5todt2hk6u">
-  <img src="https://www.data-card-for-spotify.com/api/card?user_id=31q64lqg7qaidmlgqt5todt2hk6u" alt="Data Card for Spotify">
-</a>
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31q64lqg7qaidmlgqt5todt2hk6u">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31q64lqg7qaidmlgqt5todt2hk6u" alt="Data Card for Spotify">
+  </a>
 </p>
 <!--
 #
