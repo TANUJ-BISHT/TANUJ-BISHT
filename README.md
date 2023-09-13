@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://chasinganime.com/wp-content/uploads/2020/09/champloo_banner-1-696x392.jpg" />
+ <img src="https://cdn.discordapp.com/attachments/1138715528131784713/1151534351197155359/pinterestdownloader.com-1694615838.016562_waifu2x_art_scan_noise1_scale_waifu2x_art_scan_noise1_scale.png" />
 </h1>
 
 
