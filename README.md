@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 # 💫 About Me:
-
-- 🌱 I’m currently learning Js
   
 - 😄 Pronouns: he/him
   
